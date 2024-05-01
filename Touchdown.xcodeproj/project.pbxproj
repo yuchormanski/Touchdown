@@ -11,6 +11,7 @@
 		B360C6E02BE22424003BD659 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B360C6DF2BE22424003BD659 /* ContentView.swift */; };
 		B360C6E22BE22424003BD659 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B360C6E12BE22424003BD659 /* Assets.xcassets */; };
 		B360C6E52BE22424003BD659 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B360C6E42BE22424003BD659 /* Preview Assets.xcassets */; };
+		B360C6EC2BE2246F003BD659 /* SwiftUI-App-Workbook-Touchdown.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B360C6EB2BE2246F003BD659 /* SwiftUI-App-Workbook-Touchdown.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B360C6DF2BE22424003BD659 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B360C6E12BE22424003BD659 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B360C6E42BE22424003BD659 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B360C6EB2BE2246F003BD659 /* SwiftUI-App-Workbook-Touchdown.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SwiftUI-App-Workbook-Touchdown.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		B360C6E32BE22424003BD659 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				B360C6EB2BE2246F003BD659 /* SwiftUI-App-Workbook-Touchdown.pdf */,
 				B360C6E42BE22424003BD659 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -127,6 +130,7 @@
 			files = (
 				B360C6E52BE22424003BD659 /* Preview Assets.xcassets in Resources */,
 				B360C6E22BE22424003BD659 /* Assets.xcassets in Resources */,
+				B360C6EC2BE2246F003BD659 /* SwiftUI-App-Workbook-Touchdown.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
